@@ -77,6 +77,8 @@ Envíe al instructor el archivo comprimido de la carpeta que contenga el
 documento con el código fuente (archivos con extensión .java) y una imagen
 con los resultados obtenidos al compilar y ejecutar el programa para cada uno
 de los ejercicios y enviarla a través de la plataforma, en el enlace Actividades /
-Actividad de aprendizaje 1 / Evidencia: Clases y objetos.
+Actividad de aprendizaje
+
+1 / Evidencia: Clases y objetos.
 Nota: esta evidencia es de carácter individual. Recuerde revisar la guía de
 aprendizaje con el fin de verificar que ha realizado todo lo propuesto. 
